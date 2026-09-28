@@ -1,0 +1,30 @@
+h1 {
+  color: red;
+  background-color: black;
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: green;
+}
+h4 {
+  color: yellow;
+}
+h5 {
+  color: brown;
+}
+h6 {
+  color: white;
+}
+form {
+  background-color: blue;
+}
+label {
+  color: green;
+  font-size: 30px;
+}
+li {
+  text-transform: uppercase;
+  color: purple;
+}

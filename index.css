@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  background-color: black;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: yellow;
+}
+
+form {
+  background-color: green;
+}
+label {
+  color: brown;
+}
+li {
+  color: red;
+}
