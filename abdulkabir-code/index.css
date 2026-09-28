@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: "Courier New", Courier, monospace;
+}
+
+main {
+  background-color: #f4f4f4;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  background: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.login_subtitle {
+  font-size: 13px;
+  color: #777777;
+}
